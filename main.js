@@ -27,5 +27,5 @@ let hands = [
 
 const {rule, card} = checkRule(testHand);
 
-console.log('Match rule', rule);
-console.log('Hands', card);
+console.log(rule);
+console.log(card);
